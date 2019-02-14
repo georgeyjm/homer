@@ -17,4 +17,4 @@ Functionalities ranked by importance:
 - [ ] Social?
     - [ ] Vote up / down
     - [ ] Comment
-- [ ]Statistics console
+- [ ] Statistics console
